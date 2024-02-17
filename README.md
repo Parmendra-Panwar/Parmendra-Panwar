@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parmendra-Panwar
 - 👀 I’m interested in Web tech
-- 🌱 I’m currently learning Web dev.
+- 🌱 I’m currently learning Web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me panwparmendra7@gmail.com
 - 😄 Pronouns: Panwar
