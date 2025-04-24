@@ -10,6 +10,11 @@ Welcome to my GitHub! I'm a passionate tech enthusiast who loves building and ex
 
 I have hands-on experience in both **Web3** and **Web2** development, and I enjoy working on real-world applications that combine tech with creativity.
 
+### 💼 Professional Experience
+- 🧑‍💻 Currently interning at **Medorn Venture Pvt. Ltd.**
+  - Working on a **SaaS platform** using the **MERN stack**
+  - Building with **Next.js (JS + TS)** and **Tailwind CSS** for sleek, responsive UI
+
 ### 🌱 Currently Exploring
 - 📚 Deep diving into **Next.js** and modern frontend architectures
 - 🔧 Exploring **DevOps**, **Web3**, **AI**, and **DSA**
