@@ -1,30 +1,18 @@
-## 👋 Hey there! I'm Parmendra (Paras) Panwar
+## 👋 Hi, I'm Parmendra (Paras) Panwar
 
-Welcome to my GitHub! I'm a passionate tech enthusiast who loves building and exploring innovative technologies.
+Tech enthusiast building cool things with **Web3**, **Web2**, and **AI**.
 
-### 🚀 Interests & Experience
-- 🔗 **Web3 & Blockchain**
-- 🌐 **Web2 Development**
-- 🤖 **AI/ML & Robotics**
-- 🚗 **Automobile Technology**
+### 💼 Current Role
+- Intern @ **Medorn Venture Pvt. Ltd.**
+  - Working on a **SaaS platform** using **MERN**, **Next.js (TS)**, and **Tailwind CSS**
 
-I have hands-on experience in both **Web3** and **Web2** development, and I enjoy working on real-world applications that combine tech with creativity.
+### 🌱 Learning & Exploring
+- **Next.js**, **DevOps**, **AI**, **Web3**, **DSA**
 
-### 💼 Professional Experience
-- 🧑‍💻 Currently interning at **Medorn Venture Pvt. Ltd.**
-  - Working on a **SaaS platform** using the **MERN stack**
-  - Building with **Next.js (JS + TS)** and **Tailwind CSS** for sleek, responsive UI
+### 🤝 Let's Collaborate
+Always open to working with passionate developers and teams!
 
-### 🌱 Currently Exploring
-- 📚 Deep diving into **Next.js** and modern frontend architectures
-- 🔧 Exploring **DevOps**, **Web3**, **AI**, and **DSA**
-
-### 🤝 Open to Collaborations
-I'm always looking to collaborate with passionate developers and innovative teams. If you're working on something exciting, let's connect!
-
-### 📫 Let's Connect
-- 📧 Email: [panwparmendra7@gmail.com](mailto:panwparmendra7@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/parmendr-panwar](https://www.linkedin.com/in/parmendr-panwar/)
-- 🌐 Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
-
-Let’s build something awesome together! 🚀
+### 📫 Reach Me
+- 📧 [panwparmendra7@gmail.com](mailto:panwparmendra7@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/parmendr-panwar/)
+- 🌐 [Portfolio](https://parmendra-portfolio.vercel.app/)
