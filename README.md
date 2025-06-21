@@ -40,6 +40,7 @@ I'm a passionate **Frontend Developer** and **Full Stack Enthusiast** with a dee
         <br /><i>Jan 2025 – Present</i>
       </td>
       <td align="center">
+        <img src="https://www.vhv.rs/dpng/d/423-4236988_n-ncc-india-hd-png-download.png" height="64" width="80" alt="Ncc Logo"/>
         <br /><strong>National Cadet Corps</strong>
         <br />NCC Cadet
         <br /><i>Dec 2023 – Present</i>
