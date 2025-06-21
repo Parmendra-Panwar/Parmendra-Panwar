@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Parmendra Panwar!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
