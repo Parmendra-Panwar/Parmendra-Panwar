@@ -54,22 +54,16 @@ I'm a passionate **Frontend Developer** and **Full Stack Enthusiast** with a dee
 
 ### 🔹 Triplinker Website
 A full-stack AirBnB-style app for space listings with authentication and cloud image storage.  
-**Stack:** Express.js, MongoDB, EJS, Cloudinary, Passport.js  
-🔒 Role-based access · 📸 Image Uploads · 🧭 Flash Messaging
 
 ### 🔹 School Management System (DAVM)
 A powerful school platform with student management and Google email verification.  
-**Stack:** Node.js, Express, MongoDB  
-✅ Enhanced trust by 30% · 📉 Reduced DB load by 20%
 
 ### 🔹 Task Manager App
-React + TypeScript-based task app with completed/pending tracking.  
-📊 State Optimization · 🔁 Nested task logic · 🧼 Clean architecture
 
 ### 🔹 Other Projects
 - Wedding Site, Insta Clone, Diwali Website
 - Login & Signup System
-- Personal Portfolio ([View Here](https://parmendra-portfolio.vercel.app/))
+- <strong>Personal Portfolio</strong> ([View Here](https://parmendra-portfolio.vercel.app/))
 
 ---
 
