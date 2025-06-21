@@ -27,17 +27,26 @@ I'm a passionate **Frontend Developer** and **Full Stack Enthusiast** with a dee
 
 ## 🧑‍💻 Experience
 
-**Medorn Ventures – React Frontend Developer**  
-📍 Bhopal, India · 🗓️ Jan 2023 – Present  
-- Built pixel-perfect SaaS UIs using **React.js**, **Next.js**, and **Tailwind CSS**
-- Integrated RESTful APIs, improving data accuracy by 15%
-- Focused on cross-browser compatibility, modularity, and performance
-
-**National Cadet Corps – NCC Cadet**  
-📍 Bhopal, India · 🗓️ Dec 2023 – Present  
-- Coordinated logistics with 50 cadets for parade executions
-- Developed discipline, time management, and leadership
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://medorn.com/images/medorn-logo.png" height="64" width="80" alt="Medorn Ventures Logo"/>
+        <br />
+        <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
+          <strong>Medorn Ventures Private Limited</strong>
+        </a>
+        <br />Software Engineer
+        <br /><i>Jan 2025 – Present</i>
+      </td>
+      <td align="center">
+        <br /><strong>National Cadet Corps</strong>
+        <br />NCC Cadet
+        <br /><i>Dec 2023 – Present</i>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🏗️ Projects
