@@ -95,8 +95,7 @@ A powerful school platform with student management and Google email verification
 <div align="center">
   <a href="https://www.codechef.com/users/paras4554">
     <img src="https://img.shields.io/badge/codechef-CC5136?style=for-the-badge&logo=leetcode&logoColor=black" />
-    <br />Highest Rating – 1613 | Current – 1546 
-    <br />**1300+ DSA problems** (Arrays, Trees, DP, Graphs)
+    <br />Highest Rating – 1613 | Current – 1546 | 1300+ problems
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/paras4554/">
