@@ -91,26 +91,7 @@ A powerful school platform with student management and Google email verification
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-## 📊 Competitive Programming Profiles
-
-<div align="center">
-  <a href="https://www.codechef.com/users/paras4554">
-    <img src="https://img.shields.io/badge/codechef-CC5136?style=for-the-badge&logo=leetcode&logoColor=black" />
-    <br />Highest Rating – 1613 | Current – 1546 | 1300+ problems
-  </a>
-</div>
-<div align="center">
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/paras4554/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    <br />210+ Problems Solved | Rating: 1448+
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/your-username">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-    <br />C++ ⭐⭐⭐⭐ | SQL ⭐⭐
-  </a>
-</div>
+<div align="center"> <table> <tr> <td align="center"> <a href="https://www.codechef.com/users/paras4554"> <img src="https://img.shields.io/badge/CodeChef-CC5136?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" /> </a> <br /> <b>Highest Rating:</b> 1613 <br /> <b>Current:</b> 1546 <br /> <b>1300+</b> Problems Solved </td> <td align="center"> <a href="https://leetcode.com/u/paras4554/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" /> </a> <br /> <b>210+</b> Problems Solved <br /> <b>Rating:</b> 1448+ </td> <td align="center"> <a href="https://www.hackerrank.com/your-username"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" /> </a> <br /> C++ ⭐⭐⭐⭐ <br /> SQL ⭐⭐ </td> </tr> </table> </div>
 
 ---
 
