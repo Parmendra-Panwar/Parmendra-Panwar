@@ -90,7 +90,7 @@ A powerful school platform with student management and Google email verification
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-### 📚 Competitive Programming
+## 📚 Competitive Programming
 - **CodeChef:** Highest Rating – 1613 | Current – 1546  
 - Solved **1300+ DSA problems** (Arrays, Trees, DP, Graphs)
 
