@@ -48,6 +48,7 @@ I'm a passionate **Frontend Developer** and **Full Stack Enthusiast** with a dee
     </tr>
   </table>
 </div>
+
 ---
 
 ## 🏗️ Projects
@@ -97,6 +98,8 @@ A powerful school platform with student management and Google email verification
     <img src="https://img.shields.io/badge/codechef-CC5136?style=for-the-badge&logo=leetcode&logoColor=black" />
     <br />Highest Rating – 1613 | Current – 1546 | 1300+ problems
   </a>
+</div>
+<div align="center">
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/paras4554/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -105,7 +108,7 @@ A powerful school platform with student management and Google email verification
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/your-username">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-    <br />Java ⭐⭐⭐⭐⭐ | SQL ⭐⭐⭐
+    <br />C++ ⭐⭐⭐⭐ | SQL ⭐⭐
   </a>
 </div>
 
@@ -123,7 +126,6 @@ A powerful school platform with student management and Google email verification
 
 **B.Tech – Computer Science & AI/ML**  
 Technocrats Institute of Technology, Bhopal  
-📘 CGPA: _Not Mentioned_  
 Relevant Courses: DSA, AI, OS, Software Engineering
 
 ---
