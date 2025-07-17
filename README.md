@@ -1,12 +1,10 @@
 #👋 Hello, I'm Parmendra Panwar!
-<div align="center" direction="row" display="inline">
+
+<div>
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer;DSA+Problem+Solver"
     alt="Typing SVG" />
 </div>
-
-
-
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
 - Ex. Intern @ **Medorn Ventures** as a **React Frontend Developer**
