@@ -1,10 +1,10 @@
-<p style="text-align: center; font-size: 24px; font-weight: 600;">
-  👋 Hello, I'm Parmendra Panwar!
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+  <span style="font-size: 32px; font-weight: bold;">👋 Hello, I'm Parmendra Panwar!</span>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=420&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" 
     alt="Typing SVG"
     style="vertical-align: middle;" />
-</p>
+</div>
 
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
