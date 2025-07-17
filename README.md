@@ -21,7 +21,7 @@ Technocrats Institute of Technology, Bhopal
   <table>
     <tr>
       <td align="center">
-        <img src="https://medorn.com/images/medorn-logo.png" height="64" width="80" alt="Medorn Ventures Logo"/>
+<!--         <img src="https://medorn.com/images/medorn-logo.png" height="64" width="80" alt="Medorn Ventures Logo"/> -->
         <br />
         <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
           <strong>Medorn Ventures Private Limited</strong>
@@ -30,7 +30,7 @@ Technocrats Institute of Technology, Bhopal
         <br /><i>Jan 2025 – Present</i>
       </td>
       <td align="center">
-        <img src="https://www.vhv.rs/dpng/d/423-4236988_n-ncc-india-hd-png-download.png" height="64" width="80" alt="Ncc Logo"/>
+<!--         <img src="https://www.vhv.rs/dpng/d/423-4236988_n-ncc-india-hd-png-download.png" height="64" width="80" alt="Ncc Logo"/> -->
         <br /><strong>National Cadet Corps</strong>
         <br />NCC Cadet
         <br /><i>Dec 2023 – Present</i>
@@ -79,6 +79,5 @@ Technocrats Institute of Technology, Bhopal
 ---
 
 <div align="center">
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
