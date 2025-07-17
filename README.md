@@ -1,7 +1,7 @@
-<div align="center" direction="row">
-  <h1><strong>👋 Hello, I'm Parmendra Panwar!</strong>&nbsp;</h1>
+#👋 Hello, I'm Parmendra Panwar!
+<div align="center" direction="row" display="inline">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer;DSA+Problem+Solver"
     alt="Typing SVG" />
 </div>
 
