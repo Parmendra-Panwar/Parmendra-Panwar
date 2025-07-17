@@ -1,11 +1,11 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; white-space: nowrap;">
-  <h1 style="margin: 0;">👋 Hello, I'm Parmendra Panwar!</h1>
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" 
-      alt="Typing SVG" style="vertical-align: middle;" />
-  </a>
-</div>
+<p style="text-align: center; font-size: 24px; font-weight: 600;">
+  👋 Hello, I'm Parmendra Panwar!
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" 
+    alt="Typing SVG"
+    style="vertical-align: middle;" />
+</p>
+
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
 - Ex. Intern @ **Medorn Ventures** as a **React Frontend Developer**
