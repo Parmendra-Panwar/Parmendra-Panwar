@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; font-size: 32px; font-weight: bold; gap: 12px; text-align: center;">
-  <span>👋 Hello, I'm Parmendra Panwar!</span>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; font-weight: bold; gap: 12px; text-align: center;">
+  <span style="font-size: 32px;">👋 Hello, I'm Parmendra Panwar!</span>
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver"
     alt="Typing SVG"
