@@ -10,6 +10,9 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 - Ex. Intern @ **Medorn Ventures** as a **React Frontend Developer**
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
 
+**B.Tech – Computer Science & AI/ML**  
+Technocrats Institute of Technology, Bhopal  
+
 ---
 
 ## 🧑‍💻 Experience
@@ -40,19 +43,13 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 
 ## 🏗️ Projects Live Links
 
-### 🔹 Restopilot ( Postman For REST )
-
-### 🔹 Triplinker Website ( Vrbo )
-
-### 🔹 School Management System ( Management Software)
-
-### 🔹 Task Manager App ( Setup Task For Next 5 Year )
-
-### 🔹 Typing Guru ( Ultimate Typing Master )
-
-### 🔹 Other Projects [ Portfolios, Medorn ERP(SaaS) ]
-
-### 🔹 Parking Management With Ai and Image Processing ( panding )
+🔹 Restopilot ( Postman For REST (ongoing))
+🔹 Triplinker Website ( Vrbo )
+🔹 School Management System ( Management Software)
+🔹 Task Manager App ( Setup Task For Next 5 Year )
+🔹 Typing Guru ( Ultimate Typing Master )
+🔹 Other Projects [ Portfolios, Medorn ERP(SaaS) ]
+🔹 Parking Management With Ai and Image Processing ( panding )
 
 ---
 
@@ -80,14 +77,6 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 </p>
 
 <div align="center"> <table> <tr> <td align="center"> <a href="https://www.codechef.com/users/paras4554"> <img src="https://img.shields.io/badge/CodeChef-CC5136?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" /> </a> <br /> <b>Highest Rating:</b> 1613 <br /> <b>Current:</b> 1546 <br /> <b>1300+</b> Problems Solved </td> <td align="center"> <a href="https://leetcode.com/u/paras4554/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" /> </a> <br /> <b>Highest Rating:</b> 1448+ <br /> <b>Current:</b> 1448+ <br /> <b>210+</b> Problems Solved </td> <td align="center"> <a href="https://www.hackerrank.com/your-username"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" /> </a> <br /> C++ ⭐⭐⭐⭐ <br /> SQL ⭐⭐ </td> </tr> </table> </div>
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & AI/ML**  
-Technocrats Institute of Technology, Bhopal  
-Relevant Courses: DSA, AI, OS, Software Engineering
 
 ---
 
