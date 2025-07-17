@@ -111,15 +111,6 @@ Relevant Courses: DSA, AI, OS, Software Engineering
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&layout=compact" height="150"/>
-</div>
-
----
-
 <div align="center">
   <i>Thanks for stopping by! Feel free to connect or collaborate—let's build something impactful 🚀</i>
   <br /><br />
