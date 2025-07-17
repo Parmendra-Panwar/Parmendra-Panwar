@@ -15,7 +15,7 @@ Technocrats Institute of Technology, Bhopal
 
 ---
 
-## 🧑‍💻 Experience
+##  Experience
 
 <div align="center">
   <table>
@@ -41,7 +41,7 @@ Technocrats Institute of Technology, Bhopal
 
 ---
 
-## 🏗️ Projects Live Links
+##  Projects Live Links
 
 🔹 Restopilot ( Postman For REST (ongoing))
 🔹 Triplinker Website ( Vrbo )
@@ -52,8 +52,6 @@ Technocrats Institute of Technology, Bhopal
 🔹 Parking Management With Ai and Image Processing ( panding )
 
 ---
-
-## 🛠️ Technical Arsenal
 
 ### Frontend 
 <p align="center">
@@ -81,7 +79,6 @@ Technocrats Institute of Technology, Bhopal
 ---
 
 <div align="center">
-  <i>Thanks for stopping by! Feel free to connect or collaborate—let's build something impactful 🚀</i>
-  <br /><br />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
