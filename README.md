@@ -51,20 +51,21 @@ I'm a passionate **Frontend Developer** and **Full Stack Enthusiast** with a dee
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Projects Live Links
 
-### 🔹 Triplinker Website
-A full-stack AirBnB-style app for space listings with authentication and cloud image storage.  
+### 🔹 Restopilot ( Postman For REST )
 
-### 🔹 School Management System (DAVM)
-A powerful school platform with student management and Google email verification.  
+### 🔹 Triplinker Website ( Vrbo )
 
-### 🔹 Task Manager App
+### 🔹 School Management System ( Management Software)
 
-### 🔹 Other Projects
-- Wedding Site, Insta Clone, Diwali Website
-- Login & Signup System
-- <strong>Personal Portfolio</strong> ([View Here](https://parmendra-portfolio.vercel.app/))
+### 🔹 Task Manager App ( Setup Task For Next 5 Year )
+
+### 🔹 Typing Guru ( Ultimate Typing Master )
+
+### 🔹 Other Projects [ Portfolios, Medorn ERP(SaaS) ]
+
+### 🔹 Parking Management With Ai and Image Processing ( panding )
 
 ---
 
