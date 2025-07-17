@@ -1,17 +1,15 @@
-<h2 align="center">
-  👋 Hello, I'm Parmendra Panwar!
+<center>
+  <h1>👋 Hello, I'm Parmendra Panwar!</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" 
+      alt="Typing SVG" />
   </a>
-</h2>
+</center>
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
 - Ex. Intern @ **Medorn Ventures** as a **React Frontend Developer**
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Engineer+(React%2FTS);DSA+Problem+Solver" alt="Typing SVG" />
-</div>
 
 ---
 
@@ -83,14 +81,6 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 </p>
 
 <div align="center"> <table> <tr> <td align="center"> <a href="https://www.codechef.com/users/paras4554"> <img src="https://img.shields.io/badge/CodeChef-CC5136?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" /> </a> <br /> <b>Highest Rating:</b> 1613 <br /> <b>Current:</b> 1546 <br /> <b>1300+</b> Problems Solved </td> <td align="center"> <a href="https://leetcode.com/u/paras4554/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" /> </a> <br /> <b>Highest Rating:</b> 1448+ <br /> <b>Current:</b> 1448+ <br /> <b>210+</b> Problems Solved </td> <td align="center"> <a href="https://www.hackerrank.com/your-username"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" /> </a> <br /> C++ ⭐⭐⭐⭐ <br /> SQL ⭐⭐ </td> </tr> </table> </div>
-
----
-
-## 📜 Certifications & Achievements
-
-- ✅ **Full-Stack Dev** – Apna College (Delta 1)
-- ✅ **Frontend Dev** – React + Redux by Prasant Sir
-- 🏆 Participated in **Devcon Web3**, won technical quiz goodies!
 
 ---
 
