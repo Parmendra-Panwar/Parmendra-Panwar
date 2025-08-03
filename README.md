@@ -27,7 +27,7 @@ Technocrats Institute of Technology, Bhopal
           <strong>Medorn Ventures Private Limited</strong>
         </a>
         <br />Software Engineer
-        <br /><i>Jan 2025 – Present</i>
+        <br /><i>Jan 2025 – Jul 2025</i>
       </td>
       <td align="center">
 <!--         <img src="https://www.vhv.rs/dpng/d/423-4236988_n-ncc-india-hd-png-download.png" height="64" width="80" alt="Ncc Logo"/> -->
