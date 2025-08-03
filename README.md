@@ -1,5 +1,4 @@
-#👋 Hello, I'm Parmendra Panwar!
-
+Hello, I'm Parmendra Panwar!
 ---
 <div>
   <img 
