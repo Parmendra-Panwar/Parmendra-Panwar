@@ -7,7 +7,7 @@ Hello, I'm Parmendra Panwar!
 </div>
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
-- Ex. Intern @ **Medorn Ventures** as a **React Frontend Developer**
+- Ex. Intern @ **Medorn Ventures** as a **Frontend Engineer Intern**
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
 
 **B.Tech – Computer Science & AI/ML**  
@@ -26,7 +26,7 @@ Technocrats Institute of Technology, Bhopal
         <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
           <strong>Medorn Ventures Private Limited</strong>
         </a>
-        <br />Software Engineer
+        <br />Frontend Engineer Intern
         <br /><i>Jan 2025 – Jul 2025</i>
       </td>
       <td align="center">
