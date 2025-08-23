@@ -7,7 +7,7 @@ Hello, I'm Parmendra Panwar!
 </div>
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
-- Ex. **Frontend Engineer Intern **  **@ Medorn Ventures**  
+- Ex. **Frontend Engineer Intern**  ** @ Medorn Ventures**  
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
 
 **B.Tech – Computer Science & AI/ML**  
