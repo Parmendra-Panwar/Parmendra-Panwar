@@ -7,7 +7,7 @@ Hello, I'm Parmendra Panwar!
 </div>
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
-- Ex. **Frontend Engineer Intern @**  **Medorn Ventures**  
+- Ex. **Frontend Engineer @**  **Medorn Ventures**  
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
 
 **B.Tech – Computer Science & AI/ML**  
@@ -21,20 +21,18 @@ Technocrats Institute of Technology, Bhopal
   <table>
     <tr>
       <td align="center">
-<!--         <img src="https://medorn.com/images/medorn-logo.png" height="64" width="80" alt="Medorn Ventures Logo"/> -->
-<!--         <br /> -->
-        <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
-          <strong>Medorn Ventures Private Limited</strong>
-        </a>
-        <br />Frontend Engineer Intern
-        <br /><i>Jan 2025 – Jul 2025</i>
-      </td>
+      <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
+        <strong>Medorn Ventures Private Limited</strong>
+      </a>
+      <br />Frontend Engineer Intern
+      <br /><i>Jan 2025 – Jun 2025</i>
+      <br /><strong>3-Month Contract Work (Remote)</strong>
+      <br /><i>Jul 2025 – Sep 2025</i>
+    </td>
       <td align="center">
-<!--         <img src="https://www.vhv.rs/dpng/d/423-4236988_n-ncc-india-hd-png-download.png" height="64" width="80" alt="Ncc Logo"/> -->
-<!--         <br /> -->
         <strong>National Cadet Corps</strong>
         <br />NCC Cadet
-        <br /><i>Dec 2023 – Present</i>
+        <br /><i>Oct 2023 – Sep 2025</i>
       </td>
     </tr>
   </table>
