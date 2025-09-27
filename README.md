@@ -10,8 +10,8 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 - Ex. **Frontend Engineer @**  **Medorn Ventures**  
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
 
-**B.Tech – Computer Science & AI/ML**  
-Technocrats Institute of Technology, Bhopal  
+<strong>B.Tech – Computer Science & AI/ML (Dropped in 3rd Year)</strong><br />
+Technocrats Institute of Technology, Bhopal
 
 ---
 
