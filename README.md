@@ -30,7 +30,9 @@ Technocrats Institute of Technology, Bhopal
       <br /><i>Jul 2025 – Sep 2025</i>
     </td>
       <td align="center">
-        <strong>National Cadet Corps</strong>
+        <a href="https://nccindia.gov.in/aim" title="Aim of Ncc" class="ml-2 text-black">
+          <strong>National Cadet Corps</strong>
+        </a>
         <br />NCC Cadet
         <br /><i>Oct 2023 – Sep 2025</i>
       </td>
