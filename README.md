@@ -122,8 +122,36 @@ Technocrats Institute of Technology, Bhopal
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<div align="center"> <table> <tr> <td align="center"> <a href="https://www.codechef.com/users/paras4554"> <img src="https://img.shields.io/badge/CodeChef-CC5136?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" /> </a> <br /> <b>Highest Rating:</b> 1613 </td> <td align="center"> <a href="https://leetcode.com/u/paras4554/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" /> </a> <br /> <b>Highest Rating:</b> 1502 </td> <td align="center"> <a href="https://www.hackerrank.com/your-username"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" /> </a> <br /> C++ ⭐⭐⭐⭐</tr> </table> </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/paras4554">
+          <img src="https://img.shields.io/badge/CodeChef-F8F3DE?style=for-the-badge&logo=codechef&logoColor=black" />
+        </a>
+        <br />
+        <strong>1250+ Problems Solved</strong>
+        <br />Rating: 1600+
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/u/paras4554">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+        <br />
+        <strong>250+ Problems Solved</strong>
+        <br />Rating: 1500+
+      </td>
+      <td align="center">
+        <a href="https://www.geeksforgeeks.org/user/panwparm2rea/">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+        </a>
+        <br />
+        <strong>200+ Problems Solved</strong>
+        <br />Coding Score 650+
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
@@ -131,3 +159,8 @@ Technocrats Institute of Technology, Bhopal
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+
+![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parmendra-Panwar&theme=react-dark&hide_border=true)
