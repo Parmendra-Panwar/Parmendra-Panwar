@@ -91,13 +91,13 @@ Technocrats Institute of Technology, Bhopal
 
 ##  Projects Live Links
 
-🔹 Restopilot ( Postman For REST (ongoing))
+🔹 Restopilot ( Postman For REST )
 🔹 Triplinker Website ( Vrbo )
 🔹 School Management System ( Management Software)
-🔹 Task Manager App ( Setup Task For Next 5 Year )
-🔹 Typing Guru ( Ultimate Typing Master )
+🔹 Task Manager App ( Setup Task For long duration )
+🔹 Typing Guru ( Ultimate Typing Master (Plan to Build))
 🔹 Other Projects [ Portfolios, Medorn ERP(SaaS) ]
-🔹 Parking Management With Ai and Image Processing ( panding )
+🔹 Parking Management With Ai and Image Processing ( Plan to build )
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
@@ -153,9 +153,6 @@ Technocrats Institute of Technology, Bhopal
   </table>
 </div>
 
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
@@ -164,3 +161,14 @@ Technocrats Institute of Technology, Bhopal
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 ![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parmendra-Panwar&theme=react-dark&hide_border=true)
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmendra-Panwar&theme=react&hide_border=false" height="150"/>
+</div>
