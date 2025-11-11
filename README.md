@@ -13,7 +13,8 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 <strong>B.Tech – Computer Science & AI/ML</strong><br />
 Technocrats Institute of Technology, Bhopal
 
----
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 ##  Experience
 
@@ -40,7 +41,8 @@ Technocrats Institute of Technology, Bhopal
   </table>
 </div>
 
----
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 ##  Projects Live Links
 
@@ -52,7 +54,8 @@ Technocrats Institute of Technology, Bhopal
 🔹 Other Projects [ Portfolios, Medorn ERP(SaaS) ]
 🔹 Parking Management With Ai and Image Processing ( panding )
 
----
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 ### Frontend 
 <p align="center">
@@ -76,7 +79,9 @@ Technocrats Institute of Technology, Bhopal
 
 <div align="center"> <table> <tr> <td align="center"> <a href="https://www.codechef.com/users/paras4554"> <img src="https://img.shields.io/badge/CodeChef-CC5136?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" /> </a> <br /> <b>Highest Rating:</b> 1613 </td> <td align="center"> <a href="https://leetcode.com/u/paras4554/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" /> </a> <br /> <b>Highest Rating:</b> 1502 </td> <td align="center"> <a href="https://www.hackerrank.com/your-username"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" /> </a> <br /> C++ ⭐⭐⭐⭐</tr> </table> </div>
 
----
+
+<!-- Divider GIF -->
+<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
