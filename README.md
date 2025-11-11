@@ -27,15 +27,20 @@ Technocrats Institute of Technology, Bhopal
       </a>
       <br />Frontend Engineer Intern
       <br /><i>Jan 2025 – Jun 2025</i>
-      <br /><strong>3-Month Contract Work (Remote)</strong>
-      <br /><i>Jul 2025 – Sep 2025</i>
     </td>
+      <td align="center">
+        <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
+        <strong>Medorn Ventures Private Limited</strong>
+        </a>
+        <br /><strong>3-Month Contract Work (Remote)</strong>
+        <br /><i>Jul 2025 – Sep 2025</i>
+      </td>
       <td align="center">
         <a href="https://nccindia.gov.in/aim" title="Aim of Ncc" class="ml-2 text-black">
           <strong>National Cadet Corps</strong>
         </a>
         <br />NCC Cadet
-        <br /><i>Oct 2023 – Sep 2025</i>
+        <br /><i>Oct 2023 – Ongoing</i>
       </td>
     </tr>
   </table>
