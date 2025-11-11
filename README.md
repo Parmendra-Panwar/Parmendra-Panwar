@@ -18,7 +18,30 @@ Technocrats Institute of Technology, Bhopal
 
 ##  Experience
 
-<div align="center">
+<a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
+  <strong>Medorn Ventures Private Limited</strong>
+</a> <i>Jan 2025 – Jun 2025</i>
+• Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.
+• Strengthened expertise in UI precision, state management, and efficient API integration and modifications.
+• Collaborated with senior developers to integrate and migrate the REST API, reducing system errors by 20%.
+• Worked on 3 production projects: Medorn ERP, Admin Portal, and Medorn.com, contributing to dashboards and analytics.
+
+<a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
+  <strong>Medorn Ventures Private Limited</strong>
+</a> <i>Jul 2025 – Sep 2025</i>
+Designed and integrated key SaaS modules including Onboarding Flow, Product Module, Supplier Module, streamlining
+lead-to-client conversion on the Super Admin platform.
+• Initiated projects from scratch, establishing folder structures, implementing coding standards, and applying best practices.
+• Delivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.
+• Contributed to 2 major projects: Medorn Billing and Welloxa Website, focusing on reusable components and API integration.
+
+<a href="https://nccindia.gov.in/aim" title="Aim of Ncc" class="ml-2 text-black">
+  <strong>National Cadet Corps</strong>
+</a> <i>Oct 2023 – Ongoing</i>
+• Serving as a cadet for 2 years, assisting in parades with 50-member teams, enhancing discipline and teamwork.
+
+
+<!-- <div align="center">
   <table>
     <tr>
       <td align="center">
@@ -44,7 +67,7 @@ Technocrats Institute of Technology, Bhopal
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
