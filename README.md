@@ -7,7 +7,7 @@ Hello, I'm Parmendra Panwar!
 </div>
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
-- Ex. **Frontend Engineer @**  **Medorn Ventures**  
+- Ex. **Frontend Engineer Intern @**  **Medorn Ventures**  
 - Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
 
 <strong>B.Tech – Computer Science & AI/ML</strong><br />
@@ -18,24 +18,10 @@ Technocrats Institute of Technology, Bhopal
 
 ##  Experience
 
-<!-- Medorn Ventures Private Limited (Jan 2025 – Jun 2025) -->
-<div class="experience">
-  <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
-    <strong>Medorn Ventures Private Limited</strong>
-  </a>
-  <i> &nbsp;|&nbsp; Jan 2025 – Jun 2025</i>
-  <ul>
-    <li>Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.</li>
-    <li>Strengthened expertise in UI precision, state management, and efficient API integration and modifications.</li>
-    <li>Collaborated with senior developers to integrate and migrate the REST API, reducing system errors by 20%.</li>
-    <li>Worked on 3 production projects: <strong>Medorn ERP</strong>, <strong>Admin Portal</strong>, and <strong>Medorn.com</strong>, contributing to dashboards and analytics.</li>
-  </ul>
-</div>
-
 <!-- Medorn Ventures Private Limited (Jul 2025 – Sep 2025) -->
 <div class="experience">
   <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
-    <strong>Medorn Ventures Private Limited</strong>
+    <strong>Medorn Ventures Private (Contract)</strong>
   </a>
   <i> &nbsp;|&nbsp; Jul 2025 – Sep 2025</i>
   <ul>
@@ -46,45 +32,30 @@ Technocrats Institute of Technology, Bhopal
   </ul>
 </div>
 
+<!-- Medorn Ventures Private Limited (Jan 2025 – Jun 2025) -->
+<div class="experience">
+  <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
+    <strong>Medorn Ventures Private Limited (Internship) </strong>
+  </a>
+  <i> &nbsp;|&nbsp; Jan 2025 – Jun 2025</i>
+  <ul>
+    <li>Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.</li>
+    <li>Strengthened expertise in UI precision, state management, and efficient API integration and modifications.</li>
+    <li>Collaborated with senior developers to integrate and migrate the REST API, reducing system errors by 20%.</li>
+    <li>Worked on 3 production projects: <strong>Medorn ERP</strong>, <strong>Admin Portal</strong>, and <strong>Medorn.com</strong>, contributing to dashboards and analytics.</li>
+  </ul>
+</div>
+
 <!-- National Cadet Corps (Oct 2023 – Ongoing) -->
 <div class="experience">
   <a href="https://nccindia.gov.in/aim" title="Aim of NCC" class="ml-2 text-black">
-    <strong>National Cadet Corps</strong>
+    <strong>National Cadet Corps (Cadet) </strong>
   </a>
   <i> &nbsp;|&nbsp; Oct 2023 – Ongoing</i>
   <ul>
     <li>Serving as a cadet for 2 years, assisting in parades with 50-member teams, enhancing discipline and teamwork.</li>
   </ul>
 </div>
-
-
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-      <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
-        <strong>Medorn Ventures Private Limited</strong>
-      </a>
-      <br />Frontend Engineer Intern
-      <br /><i>Jan 2025 – Jun 2025</i>
-    </td>
-      <td align="center">
-        <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
-        <strong>Medorn Ventures Private Limited</strong>
-        </a>
-        <br /><strong>3-Month Contract Work (Remote)</strong>
-        <br /><i>Jul 2025 – Sep 2025</i>
-      </td>
-      <td align="center">
-        <a href="https://nccindia.gov.in/aim" title="Aim of Ncc" class="ml-2 text-black">
-          <strong>National Cadet Corps</strong>
-        </a>
-        <br />NCC Cadet
-        <br /><i>Oct 2023 – Ongoing</i>
-      </td>
-    </tr>
-  </table>
-</div> -->
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
