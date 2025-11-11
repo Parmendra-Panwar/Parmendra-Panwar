@@ -18,27 +18,44 @@ Technocrats Institute of Technology, Bhopal
 
 ##  Experience
 
-<a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
-  <strong>Medorn Ventures Private Limited</strong>
-</a> <i>Jan 2025 – Jun 2025</i>
-- Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.
-- Strengthened expertise in UI precision, state management, and efficient API integration and modifications.
-- Collaborated with senior developers to integrate and migrate the REST API, reducing system errors by 20%.
-- Worked on 3 production projects: Medorn ERP, Admin Portal, and Medorn.com, contributing to dashboards and analytics.
+<!-- Medorn Ventures Private Limited (Jan 2025 – Jun 2025) -->
+<div class="experience">
+  <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
+    <strong>Medorn Ventures Private Limited</strong>
+  </a>
+  <i> &nbsp;|&nbsp; Jan 2025 – Jun 2025</i>
+  <ul>
+    <li>Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.</li>
+    <li>Strengthened expertise in UI precision, state management, and efficient API integration and modifications.</li>
+    <li>Collaborated with senior developers to integrate and migrate the REST API, reducing system errors by 20%.</li>
+    <li>Worked on 3 production projects: <strong>Medorn ERP</strong>, <strong>Admin Portal</strong>, and <strong>Medorn.com</strong>, contributing to dashboards and analytics.</li>
+  </ul>
+</div>
 
-<a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black"> 
-  <strong>Medorn Ventures Private Limited</strong>
-</a> <i>Jul 2025 – Sep 2025</i>
-Designed and integrated key SaaS modules including Onboarding Flow, Product Module, Supplier Module, streamlining
-lead-to-client conversion on the Super Admin platform.
-- Initiated projects from scratch, establishing folder structures, implementing coding standards, and applying best practices.
-- Delivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.
-- Contributed to 2 major projects: Medorn Billing and Welloxa Website, focusing on reusable components and API integration.
+<!-- Medorn Ventures Private Limited (Jul 2025 – Sep 2025) -->
+<div class="experience">
+  <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
+    <strong>Medorn Ventures Private Limited</strong>
+  </a>
+  <i> &nbsp;|&nbsp; Jul 2025 – Sep 2025</i>
+  <ul>
+    <li>Designed and integrated key SaaS modules including Onboarding Flow, Product Module, and Supplier Module, streamlining lead-to-client conversion on the Super Admin platform.</li>
+    <li>Initiated projects from scratch, establishing folder structures, implementing coding standards, and applying best practices.</li>
+    <li>Delivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.</li>
+    <li>Contributed to 2 major projects: <strong>Medorn Billing</strong> and <strong>Welloxa Website</strong>, focusing on reusable components and API integration.</li>
+  </ul>
+</div>
 
-<a href="https://nccindia.gov.in/aim" title="Aim of Ncc" class="ml-2 text-black">
-  <strong>National Cadet Corps</strong>
-</a> <i>Oct 2023 – Ongoing</i>
-- Serving as a cadet for 2 years, assisting in parades with 50-member teams, enhancing discipline and teamwork.
+<!-- National Cadet Corps (Oct 2023 – Ongoing) -->
+<div class="experience">
+  <a href="https://nccindia.gov.in/aim" title="Aim of NCC" class="ml-2 text-black">
+    <strong>National Cadet Corps</strong>
+  </a>
+  <i> &nbsp;|&nbsp; Oct 2023 – Ongoing</i>
+  <ul>
+    <li>Serving as a cadet for 2 years, assisting in parades with 50-member teams, enhancing discipline and teamwork.</li>
+  </ul>
+</div>
 
 
 <!-- <div align="center">
