@@ -1,5 +1,5 @@
-Hello, I'm Parmendra Panwar!
----
+# Hello, I'm Parmendra Panwar!
+
 <div>
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;Frontend+Engineer;DSA+Problem+Solver"
@@ -7,12 +7,6 @@ Hello, I'm Parmendra Panwar!
 </div>
 
 Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
-- Ex. **Frontend Engineer Intern @**  **Medorn Ventures**  
-- Portfolio: [parmendra-portfolio.vercel.app](https://parmendra-portfolio.vercel.app/)
-
-<strong>B.Tech – Computer Science & AI/ML</strong><br />
-Technocrats Institute of Technology, Bhopal
-
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
@@ -27,7 +21,6 @@ Technocrats Institute of Technology, Bhopal
   <ul>
     <li>Designed and integrated key SaaS modules including Onboarding Flow, Product Module, and Supplier Module, streamlining lead-to-client conversion on the Super Admin platform.</li>
     <li>Initiated projects from scratch, establishing folder structures, implementing coding standards, and applying best practices.</li>
-    <li>Delivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.</li>
     <li>Contributed to 2 major projects: <strong>Medorn Billing</strong> and <strong>Welloxa Website</strong>, focusing on reusable components and API integration.</li>
   </ul>
 </div>
@@ -41,7 +34,6 @@ Technocrats Institute of Technology, Bhopal
   <ul>
     <li>Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.</li>
     <li>Strengthened expertise in UI precision, state management, and efficient API integration and modifications.</li>
-    <li>Collaborated with senior developers to integrate and migrate the REST API, reducing system errors by 20%.</li>
     <li>Worked on 3 production projects: <strong>Medorn ERP</strong>, <strong>Admin Portal</strong>, and <strong>Medorn.com</strong>, contributing to dashboards and analytics.</li>
   </ul>
 </div>
@@ -60,20 +52,27 @@ Technocrats Institute of Technology, Bhopal
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
-##  Projects Live Links
+## 🚀 Projects (Live + Personal)
 
-🔹 Restopilot ( Postman For REST )
-🔹 Triplinker Website ( Vrbo )
-🔹 School Management System ( Management Software)
-🔹 Task Manager App ( Setup Task For long duration )
-🔹 Typing Guru ( Ultimate Typing Master (Plan to Build))
-🔹 Other Projects [ Portfolios, Medorn ERP(SaaS) ]
-🔹 Parking Management With Ai and Image Processing ( Plan to build )
+### **Company Projects**
+- **Medorn:** https://medorn.com  
+- **Medorn ERP:** https://app.medorn.com  
+- **Medorn Admin:** https://admin.medorn.com  
+- **Medorn Billing:** https://medornventures.in/  
+- **Welloxa Pharma:** https://www.welloxapharma.com  
+
+### **Personal Projects**
+- **School Management System:** https://deviannapurna.onrender.com  
+- **Triplinker** https://trip-linker.onrender.com
+- **Diwali Wish (CRUD)** https://diwaliwale.onrender.com
+- **Restopilot** *(Not Live)*
+- **Typing Guru** *(Planned)*
+- **AI Parking Management** *(Planned)*
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
-### Frontend 
+### Technologies and Tools 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -83,7 +82,6 @@ Technocrats Institute of Technology, Bhopal
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -134,10 +132,6 @@ Technocrats Institute of Technology, Bhopal
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmendra-Panwar&theme=react&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
 </div>
