@@ -55,19 +55,71 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 ## 🚀 Projects (Live + Personal)
 
 ### **Company Projects**
-- **Medorn:** https://medorn.com  
-- **Medorn ERP:** https://app.medorn.com  
-- **Medorn Admin:** https://admin.medorn.com  
-- **Medorn Billing:** https://medornventures.in/  
-- **Welloxa Pharma:** https://www.welloxapharma.com  
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <b>Medorn</b><br>
+      <a href="https://medorn.com">https://medorn.com</a>
+    </td>
+    <td>
+      <b>Medorn ERP</b><br>
+      <a href="https://app.medorn.com">https://app.medorn.com</a>
+    </td>
+    <td>
+      <b>Medorn Admin</b><br>
+      <a href="https://admin.medorn.com">https://admin.medorn.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Medorn Billing</b><br>
+      <a href="https://medornventures.in/">https://medornventures.in/</a>
+    </td>
+    <td>
+      <b>Welloxa Pharma</b><br>
+      <a href="https://www.welloxapharma.com">https://www.welloxapharma.com</a>
+    </td>
+    <td>
+      <b>All Free Chips</b><br>
+      <a href="https://www.allfreechips.com">https://www.allfreechips.com</a>
+    </td>
+  </tr>
+</table>
+
 
 ### **Personal Projects**
-- **School Management System:** https://deviannapurna.onrender.com  
-- **Triplinker** https://trip-linker.onrender.com
-- **Diwali Wish (CRUD)** https://diwaliwale.onrender.com
-- **Restopilot** *(Not Live)*
-- **Typing Guru** *(Planned)*
-- **AI Parking Management** *(Planned)*
+<table style="width:100%;">
+  <tr>
+    <td>
+      <b>School Management System</b><br>
+      <a href="https://deviannapurna.onrender.com">https://deviannapurna.onrender.com</a>
+    </td>
+    <td>
+      <b>Triplinker</b><br>
+      <a href="https://trip-linker.onrender.com">https://trip-linker.onrender.com</a>
+    </td>
+    <td>
+      <b>Diwali Wish (CRUD)</b><br>
+      <a href="https://diwaliwale.onrender.com">https://diwaliwale.onrender.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Restopilot</b><br>
+      <i>Not Live</i>
+    </td>
+    <td>
+      <b>Typing Guru</b><br>
+      <i>Planned</i>
+    </td>
+    <td>
+      <b>AI Parking Management</b><br>
+      <i>Planned</i>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
@@ -122,10 +174,6 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
   </table>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
@@ -134,4 +182,7 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmendra-Panwar&theme=react&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
