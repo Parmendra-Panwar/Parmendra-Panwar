@@ -6,7 +6,7 @@
     alt="Typing SVG" />
 </div>
 
-Web Developer with expertise in DSA, System Design, and OOP principles. Skilled at building scalable, maintainable applications with efficient architecture, clean code practices, and performance-optimized solutions across both frontend and backend systems.
+Software Engineer with strong proficiency in C++, Data Structures & Algorithms, OOP principles, and System Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code practices.
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
@@ -21,7 +21,6 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
   <ul>
     <li>Designed and integrated key SaaS modules including Onboarding Flow, Product Module, and Supplier Module, streamlining lead-to-client conversion on the Super Admin platform.</li>
     <li>Initiated projects from scratch, establishing folder structures, implementing coding standards, and applying best practices.</li>
-    <li>Contributed to 2 major projects: <strong>Medorn Billing</strong> and <strong>Welloxa Website</strong>, focusing on reusable components and API integration.</li>
   </ul>
 </div>
 
@@ -34,7 +33,6 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
   <ul>
     <li>Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.</li>
     <li>Strengthened expertise in UI precision, state management, and efficient API integration and modifications.</li>
-    <li>Worked on 3 production projects: <strong>Medorn ERP</strong>, <strong>Admin Portal</strong>, and <strong>Medorn.com</strong>, contributing to dashboards and analytics.</li>
   </ul>
 </div>
 
@@ -154,21 +152,21 @@ Web Developer with expertise in DSA, System Design, and OOP principles. Skilled 
         <strong>1250+ Problems Solved</strong>
         <br />Rating: 1600+
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <a href="https://leetcode.com/u/paras4554">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <br />
         <strong>250+ Problems Solved</strong>
         <br />Rating: 1500+
-      </td>
+      </td> -->
       <td align="center">
         <a href="https://www.geeksforgeeks.org/user/panwparm2rea/">
           <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
         </a>
         <br />
-        <strong>200+ Problems Solved</strong>
-        <br />Coding Score 650+
+        <strong>210+ Problems Solved</strong>
+        <br />Coding Score 700+
       </td>
     </tr>
   </table>
