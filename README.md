@@ -145,28 +145,28 @@ Software Engineer with strong proficiency in C++, Data Structures & Algorithms, 
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.codechef.com/users/paras4554">
+        <a href="https://www.codechef.com/users/captain_panwar">
           <img src="https://img.shields.io/badge/CodeChef-F8F3DE?style=for-the-badge&logo=codechef&logoColor=black" />
         </a>
         <br />
         <strong>1250+ Problems Solved</strong>
         <br />Rating: 1600+
       </td>
-      <!-- <td align="center">
-        <a href="https://leetcode.com/u/paras4554">
+      <td align="center">
+        <a href="https://leetcode.com/u/Captain_Panwar">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <br />
         <strong>250+ Problems Solved</strong>
         <br />Rating: 1500+
-      </td> -->
+      </td>
       <td align="center">
         <a href="https://www.geeksforgeeks.org/user/panwparm2rea/">
           <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
         </a>
         <br />
         <strong>210+ Problems Solved</strong>
-        <br />Coding Score 700+
+        <br />Coding Score 750+
       </td>
     </tr>
   </table>
