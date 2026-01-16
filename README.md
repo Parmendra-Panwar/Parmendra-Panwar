@@ -49,6 +49,7 @@ Software Engineer with strong proficiency in C++, Data Structures & Algorithms, 
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+
 ### Technologies and Tools 
 
 <div align="center">
@@ -71,7 +72,7 @@ Software Engineer with strong proficiency in C++, Data Structures & Algorithms, 
         <br />Rating: 1600+
       </td>
       <td align="center">
-        <a href="https://www.geeksforgeeks.org/user/panwparm2rea/">
+        <a href="https://www.geeksforgeeks.org/profile/captain7panwar">
           <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
         </a>
         <br />
