@@ -130,19 +130,19 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
 <table style="width:100%;">
   <tr>
     <td>
-      <b>School Management System</b><br>
-      <a href="https://deviannapurna.onrender.com">https://deviannapurna.onrender.com</a>
-    </td>
-    <td>
       <b>Triplinker</b><br>
       <a href="https://trip-linker.onrender.com">https://trip-linker.onrender.com</a>
+    </td>
+    <td>
+      <b>School Management System</b><br>
+      <a href="https://deviannapurna.onrender.com">https://deviannapurna.onrender.com</a>
     </td>
     <td>
       <b>Diwali Wish (CRUD)</b><br>
       <a href="https://diwaliwale.onrender.com">https://diwaliwale.onrender.com</a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <b>Restopilot</b><br>
       <i>Not Live</i>
@@ -155,7 +155,7 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
       <b>AI Parking Management</b><br>
       <i>Planned</i>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
@@ -164,7 +164,7 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmendra-Panwar&theme=react&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmendra-Panwar&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/> -->
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Parmendra-Panwar&style=flat-square&color=blue" alt="Profile Views"/>
