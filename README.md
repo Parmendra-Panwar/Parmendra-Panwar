@@ -1,10 +1,10 @@
 # Hello, I'm Parmendra Panwar!
 
-<div>
+<!-- <div>
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0969DA&center=false&vCenter=true&width=400&lines=Software+Developer;Frontend+Engineer;DSA+Problem+Solver"
     alt="Typing SVG" />
-</div>
+</div> -->
 
 Pre-Final year student specializing in AI/ML with proficiency in C++, Data Structures & Algorithms and Low Level Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code
 <!-- Divider GIF -->
@@ -15,8 +15,9 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
 <!-- Medorn Ventures Private Limited (Jul 2025 – Sep 2025) -->
 <div class="experience">
   <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
-    <strong>Medorn Ventures Private (Contract)</strong>
+    <strong>Medorn Ventures </strong>
   </a>
+  <i> &nbsp;|&nbsp; Software Developer Intern </i>
   <i> &nbsp;|&nbsp; Jan 2025 – Sep 2025</i>
   <ul>
     <li>Worked on SaaS features including Attendance, Leave, Expense, Role/Permission, log activity. Onboarding Flow, Product, Supplier, lead-to-client conversion.</li>
@@ -49,24 +50,18 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
         <a href="https://www.codechef.com/users/captain_panwar">
           <img src="https://img.shields.io/badge/CodeChef-F8F3DE?style=for-the-badge&logo=codechef&logoColor=black" />
         </a>
-        <br />
-        <strong>1350+ Problems Solved</strong>
         <br />Rating: 1600+
       </td>
       <td align="center">
         <a href="https://leetcode.com/u/Captain_Panwar">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
-        <br />
-        <strong>100+ Problems Solved</strong>
-        <br />Rating: 1600+
+        <br />Rating: 1750+
       </td>
       <td align="center">
         <a href="https://www.geeksforgeeks.org/profile/captain7panwar">
           <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
         </a>
-        <br />
-        <strong>210+ Problems Solved</strong>
         <br />Coding Score 750+
       </td>
     </tr>
