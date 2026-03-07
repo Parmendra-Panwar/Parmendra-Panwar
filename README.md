@@ -6,7 +6,7 @@
     alt="Typing SVG" />
 </div>
 
-Software Engineer with strong proficiency in C++, Data Structures & Algorithms, OOP principles, and System Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code practices.
+Pre-Final year student specializing in AI/ML with proficiency in C++, Data Structures & Algorithms and Low Level Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
@@ -17,22 +17,12 @@ Software Engineer with strong proficiency in C++, Data Structures & Algorithms, 
   <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
     <strong>Medorn Ventures Private (Contract)</strong>
   </a>
-  <i> &nbsp;|&nbsp; Jul 2025 – Sep 2025</i>
+  <i> &nbsp;|&nbsp; Jan 2025 – Sep 2025</i>
   <ul>
-    <li>Designed and integrated key SaaS modules including Onboarding Flow, Product Module, and Supplier Module, streamlining lead-to-client conversion on the Super Admin platform.</li>
-    <li>Initiated projects from scratch, establishing folder structures, implementing coding standards, and applying best practices.</li>
-  </ul>
-</div>
-
-<!-- Medorn Ventures Private Limited (Jan 2025 – Jun 2025) -->
-<div class="experience">
-  <a href="https://medorn.com" title="Medorn - MR Reporting software" class="ml-2 text-black">
-    <strong>Medorn Ventures Private Limited (Internship) </strong>
-  </a>
-  <i> &nbsp;|&nbsp; Jan 2025 – Jun 2025</i>
-  <ul>
-    <li>Developed and delivered end-to-end SaaS modules including Attendance, Leave, Expense Management, and Role / Permission Systems, automating workflows and minimizing approval load.</li>
-    <li>Strengthened expertise in UI precision, state management, and efficient API integration and modifications.</li>
+    <li>Worked on SaaS features including Attendance, Leave, Expense, Role/Permission, log activity. Onboarding Flow, Product, Supplier, lead-to-client conversion.</li>
+    <li>Integrated & debugged REST APIs, fixed backend logic, and optimized data handling.</li>
+    <li>Initiated a project from scratch, establishing folder structures, and applying best practices.</li>
+    <li>SDelivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.</li>
   </ul>
 </div>
 
