@@ -62,7 +62,7 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
         <a href="https://www.geeksforgeeks.org/profile/captain7panwar">
           <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
         </a>
-        <br />Coding Score 950+
+        <br />Coding Score 1000+
       </td>
     </tr>
   </table>
