@@ -8,7 +8,7 @@
 
 Pre-Final year student specializing in AI/ML with proficiency in C++, Data Structures & Algorithms and Low Level Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code
 <!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%"> -->
 
 ##  Experience
 
@@ -32,16 +32,15 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
   <a href="https://nccindia.gov.in/aim" title="Aim of NCC" class="ml-2 text-black">
     <strong>National Cadet Corps (Cadet) </strong>
   </a>
-  <i> &nbsp;|&nbsp; Oct 2023 – Ongoing</i>
   <ul>
     <li>Serving as a cadet for 2 years, assisting in parades with 50-member teams, enhancing discipline and teamwork.</li>
   </ul>
 </div>
 
 <!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%"> -->
 
-### Technologies and Tools 
+## DSA & Technologies Tools 
 
 <div align="center">
   <table>
@@ -70,76 +69,29 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/nextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/cpp-E7DF5E?style=for-the-badge&logo=c&logoColor=black" />
 </p>
-
 
 <!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-
-## 🚀 Projects (Live + Personal)
-
-### **Company Projects**
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <b>Medorn</b><br>
-      <a href="https://medorn.com">https://medorn.com</a>
-    </td>
-    <td>
-      <b>Medorn ERP</b><br>
-      <a href="https://app.medorn.com">https://app.medorn.com</a>
-    </td>
-    <td>
-      <b>Medorn Admin</b><br>
-      <a href="https://admin.medorn.com">https://admin.medorn.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Medorn Billing</b><br>
-      <a href="https://medornventures.in/">https://medornventures.in/</a>
-    </td>
-    <td>
-      <b>Welloxa Pharma</b><br>
-      <a href="https://www.welloxapharma.com">https://www.welloxapharma.com</a>
-    </td>
-    <td>
-      <b>All Free Chips</b><br>
-      <a href="https://www.allfreechips.com">https://www.allfreechips.com</a>
-    </td>
-  </tr>
-</table>
-
+<!-- <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%"> -->
 
 ### **Personal Projects**
 <table style="width:100%;">
   <tr>
     <td>
-      <b>Triplinker</b><br>
-      <a href="https://trip-linker.onrender.com">https://trip-linker.onrender.com</a>
+      <a href="https://triplinkers.vercel.app/">Triplinker/</a>
     </td>
     <td>
-      <b>School Management System</b><br>
-      <a href="https://deviannapurna.onrender.com">https://deviannapurna.onrender.com</a>
+      <a href="https://deviannapurna.onrender.com">School Management System</a>
     </td>
     <td>
-      <b>Diwali Wish (CRUD)</b><br>
-      <a href="https://diwaliwale.onrender.com">https://diwaliwale.onrender.com</a>
+      <a href="https://diwaliwale.onrender.com">Diwali Wish (CRUD)</a>
     </td>
   </tr>
   <!-- <tr>
@@ -157,10 +109,36 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
     </td>
   </tr> -->
 </table>
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
-## 📈 GitHub Stats & Activity
+### **Internship Projects**
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <a href="https://app.medorn.com">Medorn ERP</a>
+    </td>
+    <td>
+      <a href="https://admin.medorn.com">Medorn Admin</a>
+    </td>
+    <td>
+      <a href="https://medorn.com">Medorn</a>
+    </td>
+    <td>
+      <a href="https://medornventures.in">Medorn Billing</a>
+    </td>
+    <td>
+      <a href="https://www.welloxapharma.com">Welloxa Pharma</a>
+    </td>
+    <td>
+      <a href="https://www.allfreechips.com">All Free Chips</a>
+    </td>
+  </tr>
+</table>
+
+<!-- Divider GIF -->
+<!-- <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%"> -->
+
+## GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parmendra-Panwar&theme=react&hide_border=false" height="150"/>
