@@ -20,10 +20,15 @@ Pre-Final year student specializing in AI/ML with proficiency in C++, Data Struc
   <i> &nbsp;|&nbsp; Software Developer Intern </i>
   <i> &nbsp;|&nbsp; Jan 2025 – Sep 2025</i>
   <ul>
-    <li>Worked on SaaS features including Attendance, Leave, Expense, Role/Permission, log activity. Onboarding Flow, Product, Supplier, lead-to-client conversion.</li>
+    <!-- <li>Worked on SaaS features including Attendance, Leave, Expense, Role/Permission, log activity. Onboarding Flow, Product, Supplier, lead-to-client conversion.</li>
     <li>Integrated & debugged REST APIs, fixed backend logic, and optimized data handling.</li>
     <li>Initiated a project from scratch, establishing folder structures, and applying best practices.</li>
-    <li>SDelivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.</li>
+    <li>SDelivered clean, maintainable, and reusable code, ensuring long-term project scalability and team collaboration.</li> -->
+     <li> Contributed to 4 production applications: Medorn ERP, Admin Portal, Medorn Billing, and Medorn Website. </li>
+<li> Enhanced 4 core ERP modules: Engineered Role-based Permission Control (RBAC), Expense, Attendance, and Leave systems. </li>
+<li> Initiated a new project from scratch by defining folder structures and reusable components for consistent development.</li>
+<li> Built Inventory & Supplier flows: Integrated client onboarding and product modules, streamlining the lead-to-client conversion. </li>
+<li> Optimized Frontend Architecture: Implemented UI/UX precision and state-driven API flows interaction using Redux Toolkit. </li>
   </ul>
 </div>
 
