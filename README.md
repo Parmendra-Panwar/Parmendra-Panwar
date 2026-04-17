@@ -1,5 +1,4 @@
-### Hello, I'm Parmendra Panwar!
-Pre-Final year student specializing in AI/ML with proficiency in C++, Data Structures & Algorithms and Low Level Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code
+Hello, I'm Parmendra Panwar, Final year student specializing in AI/ML with proficiency in C++, Data Structures & Algorithms and Low Level Design fundamentals. Experienced in building maintainable full-stack web applications with attention to performance and clean code
 
 ###  Experience
 <div class="experience">
