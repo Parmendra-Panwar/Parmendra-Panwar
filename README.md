@@ -1,4 +1,4 @@
-Hello, I'm Parmendra Panwar, Final year student specializing in AI/ML with proficiency in C++, DSA and LLD. Experienced in building maintainable full-stack web applications with attention to performance and clean code
+Hello, I'm Parmendra Panwar, Final year student specializing in AI/ML with proficiency in C++, DSA and LLD. Experienced in building maintainable full-stack web applications with attention to performance and clean code.
 
 ###  Experience
 <div class="experience">
